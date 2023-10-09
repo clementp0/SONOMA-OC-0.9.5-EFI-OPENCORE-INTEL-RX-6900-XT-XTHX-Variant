@@ -2,7 +2,7 @@
   
  
 
-# OPENCORE 1.0.0 EFI using I9 10900KF and RX 6900 XT XTHX Variant (0x73af) - Sonoma
+# OPENCORE 0.9.5 EFI using I9 10900KF and RX 6900 XT XTHX Variant (0x73af) - Sonoma
 
   
 <p align="center">
@@ -14,7 +14,7 @@
 
   
 
-**Current OpenCore**: 1.0.0
+**Current OpenCore**: 0.9.5
 
   
 
@@ -49,7 +49,7 @@ See [documentation](https://dortania.github.io/GPU-Buyers-Guide/modern-gpus/amd-
 
   
 
-- macOS Monterey 12.6, macOS Ventura 13.0
+- macOS Sonoma 14.0
 
 - WiFi (using [itlwm](https://github.com/OpenIntelWireless/itlwm) + [heliport](https://github.com/OpenIntelWireless/HeliPort))
 
