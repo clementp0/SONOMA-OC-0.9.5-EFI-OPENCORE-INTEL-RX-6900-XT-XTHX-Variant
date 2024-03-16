@@ -1,14 +1,9 @@
-
-  
- 
-
 # OPENCORE 0.9.5 EFI using I9 10900KF and RX 6900 XT XTHX Variant (0x73af) - Sonoma
 
   
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/824307115032051793/1159936084445253703/Capture_decran_2023-10-06_a_21.30.29.png">
+  <img src="https://github.com/clementp0/SONOMA-OC-0.9.5-EFI-OPENCORE-INTEL-RX-6900-XT-XTHX-Variant/assets/15802129/7179811f-880b-4e3c-b279-20b05a951f60">
 </p>
-  
 
 **Latest working macOS**: Sonoma 14.0
 
